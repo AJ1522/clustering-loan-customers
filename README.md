@@ -40,7 +40,7 @@ Perform customer segmentation based on demographic and financial attributes to i
   ![Cluster Plot](Cluster_plot_4_clusters.png)
 
 - **Elbow Plot**:
-  ![Elbow Plot](elbow_plot.png)
+  ![Elbow Plot](elbow_plot_1.png)
 
 - **Segmented Customer Data**:
   - See details in `ClusteredData_4Clusters.xlsx`.
