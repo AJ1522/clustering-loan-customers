@@ -37,7 +37,11 @@ Perform customer segmentation based on demographic and financial attributes to i
 
 ### Key Visuals:
 - **Cluster Plot**:
-  - ![Cluster Plot](Cluster_plot_4_clusters.png)
+  ![Cluster Plot](Cluster_plot_4_clusters.png)
+
+- **Elbow Plot**:
+  ![Elbow Plot](elbow_plot.png)
+
 - **Segmented Customer Data**:
   - See details in `ClusteredData_4Clusters.xlsx`.
 
